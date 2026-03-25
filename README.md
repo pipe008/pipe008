@@ -1,4 +1,13 @@
 ## Hi there 👋
+<!--
+CONFIG
+FULL_NAME: Andrés Felipe Ardila Fajardo
+GITHUB_USER: pipe008
+EMAIL: andresardila260@gmail.com
+CODE_ORGANIZATION: code-corhuila 
+-->
+
+
 
 <!--
 **pipe008/pipe008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
